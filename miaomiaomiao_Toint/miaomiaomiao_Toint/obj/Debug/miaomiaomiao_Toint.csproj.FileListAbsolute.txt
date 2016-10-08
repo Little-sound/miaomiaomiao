@@ -1,0 +1,6 @@
+G:\visual studio 项目\miaomiaomiao_Toint\miaomiaomiao_Toint\bin\Debug\miaomiaomiao_Toint.exe.config
+G:\visual studio 项目\miaomiaomiao_Toint\miaomiaomiao_Toint\bin\Debug\miaomiaomiao_Toint.exe
+G:\visual studio 项目\miaomiaomiao_Toint\miaomiaomiao_Toint\bin\Debug\miaomiaomiao_Toint.pdb
+G:\visual studio 项目\miaomiaomiao_Toint\miaomiaomiao_Toint\obj\Debug\miaomiaomiao_Toint.csprojResolveAssemblyReference.cache
+G:\visual studio 项目\miaomiaomiao_Toint\miaomiaomiao_Toint\obj\Debug\miaomiaomiao_Toint.exe
+G:\visual studio 项目\miaomiaomiao_Toint\miaomiaomiao_Toint\obj\Debug\miaomiaomiao_Toint.pdb
